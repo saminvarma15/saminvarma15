@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a Master's student in Applied Statistics and Data Sci
   - M.S. in Applied Statistics and Data Science, University of Texas at Arlington  
   - B.Tech in Artificial Intelligence and Data Science, Chaitanya Bharathi Institute of Technology  
   - ICSE, Gitanjali Group of Schools  
-  - Tuck School of Business Bridge Program (December 2025, Session 1)  
+  - Tuck School of Business Bridge Program (June 2025, Session 1)  
   
 - Professional Interests:  
   My academic and professional journey is centered around exploring **machine learning**, **deep learning**, and **optimization** techniques, especially for **biomedical applications** and **financial analysis**. I am particularly keen on working in industries like **fintech**, **healthcare**, and **technology-driven business sectors**.
